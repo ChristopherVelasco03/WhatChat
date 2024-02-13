@@ -1,5 +1,6 @@
 Web: https://whatchat-0ijz.onrender.com
 # WhatChat - Mensajero Instantáneo con Node.js
+![image](https://github.com/ChristopherVelasco03/WhatChat/assets/155390541/15811b6e-f13a-4983-a49b-7bc7c9609d0c)
 
 ## Descripción
 
